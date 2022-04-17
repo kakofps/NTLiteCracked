@@ -7,4 +7,4 @@ ENGLISH: If you want ntlite, buy it at https://www.ntlite.com/ ,I hope I have he
  
  
 
-ESPAÑOL: Si quieres ntlite, cómpralo en https://www.ntlite.com/ ,pero haberte ayudado.
+ESPAÑOL: Si quieres ntlite, cómpralo en https://www.ntlite.com/ ,espero haberte ayudado.
